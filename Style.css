@@ -29,9 +29,10 @@ body{
 .site-wrapper{
     width: 100%;
     height: 100%;
-    background-image: url('Stock/Background_1.jpeg');
+    /*background-image: url('Stock/Background_1.jpeg');
     background-size: cover;
-    background-repeat: no-repeat; 
+    background-repeat: no-repeat; */
+    background-color: grey;
     color: #fff;
 }
 .site-title{
@@ -46,8 +47,9 @@ body{
 .title-text{
     width: 50vw;
     height: 5vh;
-    font-size: 0.8em;
-    color: #F6F8FF;
+    font-size: 2rem;
+    color: #EF233C;
+
 }
 .btn-sub1{
     font-family: 'Patua One';
@@ -100,7 +102,7 @@ body{
     height: 100px;
     width: 100px;
     border-radius: 50%;
-    margin-left: 9vw;
+    margin-left: 45%;
     background-color: #F7FFF7;
     border: 1px solid #3F494C;
     color: #EF233C; 

@@ -284,22 +284,22 @@ function validateEmail($email) {
     $('html, body').animate({scrollTop:0},1000);//500
   });
   $('.nav-item #features').on('click',function(){
-    $('html, body').animate({scrollTop:555},1000);//950
-  });
-  $('.nav-item #pricing').on('click',function(){
-    $('html, body').animate({scrollTop:1300},1000);
+    $('html, body').animate({scrollTop:540},1000);//950
   });
   $('.nav-item #services').on('click',function(){
-    $('html, body').animate({scrollTop:1935},1000);
+    $('html, body').animate({scrollTop:1190},1000);
   });
   $('.nav-item #our-team').on('click',function(){
-    $('html, body').animate({scrollTop:2675},1000);
+    $('html, body').animate({scrollTop:1885},1000);
+  });
+  $('.nav-item #pricing').on('click',function(){
+    $('html, body').animate({scrollTop:2600},1000);
   });
   $('.nav-item #about-us').on('click',function(){
     $('html, body').animate({scrollTop:3280},1000);
   });
   $('.nav-item #contact-us').on('click',function(){
-    $('html, body').animate({scrollTop:3945},1000);
+    $('html, body').animate({scrollTop:3910},1000);
   });
   
 
